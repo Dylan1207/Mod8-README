@@ -21,18 +21,18 @@ This is a frontend web application that connects to a backend API. It allows use
 - Open index.html in your browser.
 
 ## Usage Instructions
-View Data - Displays all records from the database
-Add Data - Add a new record (shows confirmation modal)
-Edit Data - Select a record from dropdown and update it
+- View Data - Displays all records from the database
+- Add Data - Add a new record (shows confirmation modal)
+- Edit Data - Select a record from dropdown and update it
 
 ## API Integration
 The frontend connects to the backend API using fetch:
 fetch("https://mod6-a6.onrender.com/api/v1/items")
 
 ### Endpoints used:
-GET - retrieve data
-POST - add data
-PUT - update data
+- GET - retrieve data
+- POST - add data
+- PUT - update data
 
 ## Contributing
 - Fork the repository

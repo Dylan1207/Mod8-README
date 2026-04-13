@@ -24,9 +24,9 @@ This is a backend API built using Node.js and Express. It connects to a PostgreS
 - npm start
 
 ## API Documentation
-GET /api/v1/items - Returns all items
-POST /api/v1/items - Creates a new item
-PUT /api/v1/items/:id - Updates an existing item
+- GET /api/v1/items - Returns all items
+- POST /api/v1/items - Creates a new item
+- PUT /api/v1/items/:id - Updates an existing item
 
 ### Example Response:
 {
